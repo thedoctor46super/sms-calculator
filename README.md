@@ -1,4 +1,4 @@
-sms-calculator
+SMS Calculator
 =============================
 Simple library to help calculate the number of SMS corresponding to a certain text content.
 
@@ -7,7 +7,7 @@ Usage
 ----------
 
 ```javascript
-SMSCalculator.getCount('📱Some really awesome SMS content 🔥')
+SMSCalculator.getCount('📱Some really cool SMS content 🔥')
 ```
 
 This will return the following object:
