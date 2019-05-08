@@ -3,7 +3,7 @@ sms-calculator
 Simple library to help calculate the number of SMS corresponding to a certain text content.
 
 
-### [Demo](https://codepen.io/thedoctor46super/full/qGOYLg){:target="_blank"}
+### Check the live [Demo](https://codepen.io/thedoctor46super/full/qGOYLg)
 
 
 Usage
